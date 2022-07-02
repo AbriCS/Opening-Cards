@@ -1,0 +1,53 @@
+.body {
+    margin: 0;
+    padding: 0;
+    background: #f2f2f2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.occontainer{
+    max-width: 1400px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    margin: 40px auto 0 auto;
+    background-color: none;
+    padding:10px;
+    align-items:center;
+}
+
+.card {
+    position:relative;
+    display:flex;
+    padding: 14px;
+   margin-left: 5px;
+    margin-right: 10px;
+    width: 80px;
+    /* height:140px;
+     /*background: #fff;
+    transform-style: preserve-3d;
+    transform: perspective(2000px);
+    transition: 1s;
+    box-shadow: inset 300px 0 50px rgba (0,0,0,.5); 
+    justify-content: space-between;
+    display:flex;*/
+
+   
+}
+
+.img {
+    position:relative;
+    margin-left: 5px;
+    margin-right: 10px;
+    width: 150px;
+    height:140px;
+    background: #fff;
+    transform-style: preserve-3d;
+    transform: perspective(2000px);
+    transition: 1s;
+    box-shadow: inset 300px 0 50px rgba (0,0,0,.5); 
+    justify-content: space-between;
+    display:flex;
+}
+
+.
