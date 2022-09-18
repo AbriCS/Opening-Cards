@@ -6,7 +6,7 @@
 }
 
 .occontainer{
-    max-width: 1400px;
+    width: 100px;
     display: flex;
     flex-wrap:wrap;
     justify-content: space-around;
@@ -22,25 +22,30 @@
     padding: 14px;
    margin-left: 5px;
     margin-right: 10px;
-    width: 80px;
-    /* height:140px;
-     /*background: #fff;
+    /*width: 80px;
+    height:140px;*/
+    background: #fff;
     transform-style: preserve-3d;
     transform: perspective(2000px);
     transition: 1s;
     box-shadow: inset 300px 0 50px rgba (0,0,0,.5); 
     justify-content: space-between;
-    display:flex;*/
+    display:flex;
 
    
 }
+
+/*.imgBox {
+    /*height:40px;
+    width: 60px;
+}*/
 
 .img {
     position:relative;
     margin-left: 5px;
     margin-right: 10px;
-    width: 150px;
-    height:140px;
+    /*width: 40px;
+    height:80px;*/
     background: #fff;
     transform-style: preserve-3d;
     transform: perspective(2000px);
@@ -50,4 +55,6 @@
     display:flex;
 }
 
-.
+.space {
+    width: 10px;
+}
