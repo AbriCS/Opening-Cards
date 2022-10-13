@@ -4,7 +4,7 @@
 ### Table of Contents
 * [Description](#description)<br>
 * [How to use the App](#how-this-app-might-be-used)
-            <br>1. [Features](#features)<br>2. [Why Use the app](#why-use-this-animation)<br>3. [Important Note](#important-note)<br>
+            <br>1. [Features](#features)<br>2. [Why Use the app](#why-use-this-animation)<br>
 
 * [Screenshot](#📷-screenshots)<br>
 * [Short Film](#🎞️-short-film)<br>
@@ -27,8 +27,7 @@
 #### Why use this animation.
 
 ```
-- Animations add colour, texture and interest 
-to an app.
+- Animations add colour, texture and interest to an app.
 - More interesting and engaging than a simple pop-up.  
 - Ideal for creating a iteractive experience.
 ```
